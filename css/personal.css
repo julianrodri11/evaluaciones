@@ -1,0 +1,10 @@
+#mins
+{  position:fixed;
+   
+   top:calc(97.8%);
+   z-index: 200;
+   width: 73%;   
+   background-color: #D8D8D8;
+   opacity: 0.8;
+
+}
